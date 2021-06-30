@@ -1,0 +1,5 @@
+fire
+requests
+pytest
+coverage
+pytest-cov
