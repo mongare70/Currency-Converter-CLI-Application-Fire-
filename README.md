@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ad4992c5d10b445fb9bb0f35fa10424d)](https://www.codacy.com/gh/mongare70/Currency-Converter-CLI-Application-Fire-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mongare70/Currency-Converter-CLI-Application-Fire-&amp;utm_campaign=Badge_Grade)
+
 # Currency Converter (CLI Application)
 >A project done in fulfillment of the first checkpoint of the SkaeHub Developer Program
 
