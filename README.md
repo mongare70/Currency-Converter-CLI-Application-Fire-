@@ -33,9 +33,10 @@ to convert the currency using the latest currency rates.
 
 4. cd into the **app** folder and run `python currency_converter.py <command> --base <base_currency> --result <result_currency> --amount <amount_to_convert>`
 
+
 #3. Usage
 The following screencast shows how to run the app. Check it out:
-
+https://user-images.githubusercontent.com/46082842/124121927-2667bf80-da7e-11eb-9762-e9259da185ca.mp4
 
 
 #4. Tests
