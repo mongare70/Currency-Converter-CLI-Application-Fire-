@@ -41,14 +41,13 @@
    To run nosetests ensure that you are within the *virtual environment* and have the following installed:
 
    1. *pytest*
-   2. *coverage*
-   3. *pytest-cov*
+   2. *pytest-cov*
 
-   After ensuring the above, within the **amity folder** run :
+   After ensuring the above, within the **app folder** run :
 
-   `nosetests --with-coverage` and
+   `pytest` or
 
-   `coverage report`
+   `pytest --cov=test_currency_converter`
 
 ## Credits
 
