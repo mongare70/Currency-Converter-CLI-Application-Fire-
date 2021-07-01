@@ -7,13 +7,11 @@ supported_currencies = {'KES', 'USD', 'EUR', 'JPY', 'GBP', 'CHF', 'CAD', 'AUD', 
 
 # currency convert class
 class CurrencyConverter:
-
     # constructor
     def __init__(self, base, result, amount):
         self.base = base
         self.result = result
         self.amount = amount
-
 
     # Convert currency method
     def convert(self):

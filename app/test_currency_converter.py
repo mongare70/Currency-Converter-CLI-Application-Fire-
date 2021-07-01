@@ -2,7 +2,6 @@ import unittest
 from currency_converter import CurrencyConverter
 
 class TestCurrencyConverter(unittest.TestCase):
-    
     # test with no arguments 
     def test_convert_no_argument(self):
         self.assertFalse(CurrencyConverter('', '', '').convert())
