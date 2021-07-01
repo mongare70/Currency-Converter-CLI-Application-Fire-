@@ -1,5 +1,5 @@
 # Currency Converter (CLI Application)
-    > A project done in fulfillment of the first checkpoint of the SkaeHub Developer Program
+>A project done in fulfillment of the first checkpoint of the SkaeHub Developer Program
 
 #1 Problem definition
     The main objective of this project is to model a Currency Converter application. 
