@@ -40,7 +40,7 @@ The following screencast shows how to run the app. Check it out:
 
 #4. Tests
 
-To run nosetests ensure that you are within the *virtual environment* and have the following installed:
+To run tests ensure that you are within the *virtual environment* and have the following installed:
 
 1. *pytest*
 2. *pytest-cov*
