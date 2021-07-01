@@ -7,11 +7,11 @@
 #1 Problem definition
 The main objective of this project is to model a Currency Converter application that converts currencies using the latest rates.
 
-# How?
+## How?
 It converts the amount the user has entered from the added base currency to the added result currency.
 It then prints out a JSON containing the converted currency.
 
-# Which API?
+## Which API?
 This application uses Rapid API's Currency Converter API 
 to convert the currency using the latest currency rates.
   
