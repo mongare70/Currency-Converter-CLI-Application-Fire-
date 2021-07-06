@@ -3,11 +3,9 @@ import fire
 import json
 
 # set consisting supported currencies
-supported_currencies = {'KES', 'USD', 'EUR', 'JPY', 'GBP', 'CHF', 'CAD', 'AUD', 'ZAR', 'NZD'}
+supported_currencies = {'KES', 'kes', 'USD', 'usd', 'EUR', 'eur', 'JPY', 'jpy', 'GBP', 'gbp', 'CHF', 'chf', 'CAD', 'cad', 'AUD', 'aud', 'ZAR', 'zar', 'NZD', 'nzd'}
 
-# currency convert class
 class CurrencyConverter:
-    # constructor
     def __init__(self, base, result, amount):
         self.base = base
         self.result = result
