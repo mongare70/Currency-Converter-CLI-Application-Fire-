@@ -67,7 +67,7 @@ After ensuring the above, within the **app folder** run :
 
 ## Credits
 
-1. [Humphrey Musonye](https://github.com/hmusonye)
+1. [Hillary Mongare](https://github.com/mongare70)
 
 2. The [SkaeHub](https://skaehub.com/) community.
 
